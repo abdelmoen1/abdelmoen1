@@ -1,4 +1,4 @@
-#👋 Hi, I'm Abd Almoen Albarbari
+## 👋 Hi, I'm Abd Almoen Albarbari
 
 Frontend Developer | Computer Systems Engineering Student
 
@@ -12,7 +12,7 @@ Currently focused on strengthening my JavaScript skills and building production-
 
 ---
 
-##🚀 Tech Stack
+## 🚀 Tech Stack
 - HTML5
 - CSS3
 - JavaScript (ES6+)
@@ -28,14 +28,14 @@ Each project is structured professionally with clean code and detailed README do
 
 ---
 
-##📌 Current Focus
+## 📌 Current Focus
 - Deepening my JavaScript expertise
 - Preparing to work with modern frontend frameworks (React, TypeScript, Sass)
 - Building scalable and maintainable frontend applications
 
 ---
 
-##📫 Contact
+## 📫 Contact
 - GitHub: https://github.com/abdelmoen1
 
 <!--
