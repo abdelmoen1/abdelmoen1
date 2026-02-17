@@ -16,9 +16,12 @@ Currently focused on strengthening my JavaScript skills and building production-
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- REST API Integration
+- Fetch API & Async/Await
+- JSON Handling
 - Git & GitHub
 - Responsive Web Design
-- UI Structure & Accessibility
+- Accessibility & Clean Code Structure
 
 ---
 
