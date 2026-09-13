@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=780&lines=Software+Engineer;Junior+Full+Stack+Developer;Laravel+%7C+React+%7C+JavaScript+%7C+MySQL;Building+Real-World+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=780&lines=Software+Engineer;Full+Stack+Developer;Laravel+%7C+React+%7C+JavaScript+%7C+MySQL;Building+Real-World+Web+Applications" />
 
 <br><br>
 
