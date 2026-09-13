@@ -124,10 +124,7 @@ Ship 🚀
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=5EEAD4&text_color=94A3B8&icon_color=5EEAD4"
-width="420"
-/>
+
 
 <img
 src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=94A3B8&dates=64748B"
@@ -137,17 +134,7 @@ width="420"
 </div>
 
 
-<br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=94A3B8&line=5EEAD4&point=ffffff&area=true&hide_border=true" width="850"/>
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=5EEAD4&center=true&vCenter=true&width=600&lines=Currently+building.;Currently+learning.;Always+improving." />
 
