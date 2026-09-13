@@ -124,11 +124,18 @@ Ship 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=5EEAD4&text_color=94A3B8&icon_color=5EEAD4" width="420"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=5EEAD4&text_color=94A3B8&icon_color=5EEAD4"
+width="420"
+/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=94A3B8&dates=64748B" width="420"/>
+<img
+src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=94A3B8&dates=64748B"
+width="420"
+/>
 
 </div>
+
 
 <br>
 
