@@ -83,7 +83,7 @@ The idea is to help organizations turn real problems into structured projects an
 
 <div align="center">
 
-### Micro ERP
+### حِسبة
 
 <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="360"/>
 
