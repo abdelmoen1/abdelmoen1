@@ -8,17 +8,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=0f766e" />
-
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="460"/>
-
-</div>
 
 ## `whoami`
 
