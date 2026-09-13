@@ -1,57 +1,103 @@
-## 👋 Hi, I'm Abd Almoen Albarbari
+# Hi, I'm Abdelmoen Albarbari 👋
 
-Frontend Developer | Computer Systems Engineering Student
+### Full Stack Web Developer | PHP • Laravel • React.js
 
----
+I build practical web applications with a focus on **clean architecture, API-driven development, and real-world problem solving**.
 
-## About Me
-I’m a Computer Systems Engineering student at Al-Azhar University – Gaza.  
-I specialize in building clean, responsive, and accessible user interfaces using modern frontend technologies.  
-I’ve completed multiple real-world projects and published them professionally on GitHub.  
-Currently focused on strengthening my JavaScript skills and building production-level frontend applications.
+Currently, I'm developing my skills across the full stack — from **Laravel backends and REST APIs** to **React frontends**, while improving my experience with software architecture, Git/GitHub, testing, and collaborative development.
 
 ---
 
-## 🚀 Tech Stack
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- REST API Integration
-- Fetch API & Async/Await
-- JSON Handling
-- Git & GitHub
-- Responsive Web Design
-- Accessibility & Clean Code Structure
+## 🚀 What I Do
+
+* Build full-stack web applications
+* Design and develop RESTful APIs with Laravel
+* Build responsive and interactive interfaces with React.js
+* Work with relational databases and application architecture
+* Integrate frontend applications with backend APIs
+* Use Git/GitHub for version control and team collaboration
+* Apply Agile practices and Git-based development workflows
 
 ---
 
-## Projects
-You can find my frontend projects in my repositories.  
-Each project is structured professionally with clean code and detailed README documentation.
+## 🛠️ Tech Stack
+
+### Frontend
+
+HTML5 · CSS3 · JavaScript · React.js · Vite
+
+### Backend
+
+PHP · Laravel · REST APIs · Laravel Sanctum
+
+### Database
+
+MySQL
+
+### Tools & Workflow
+
+Git · GitHub · VS Code · Figma · Postman
+
+### Currently Learning
+
+TypeScript · Tailwind CSS · Advanced Laravel · Software Architecture
 
 ---
 
-## 📌 Current Focus
-- Deepening my JavaScript expertise
-- Preparing to work with modern frontend frameworks (React, TypeScript, Sass)
-- Building scalable and maintainable frontend applications
+## 📌 Featured Projects
+
+### 🏢 GoTrainer
+
+A platform concept focused on connecting students and graduates with **real-world training and project opportunities**.
+
+**Working with:** Laravel · React.js · AI integration · Agile
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/abdelmoen1
+### 📊 Micro ERP System
 
-<!--
-**abdelmoen1/abdelmoen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A multi-user ERP-style web application designed to help small businesses manage customers, invoices, debts, payments, and store operations.
 
-Here are some ideas to get you started:
+**Built with:** Laravel · React.js · MySQL · Sanctum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌦️ Weather App
+
+A responsive web application that consumes a weather API and dynamically displays weather information.
+
+**Built with:** HTML · CSS · JavaScript · REST API
+
+---
+
+### 🔎 GitHub User Search
+
+A frontend application that uses the GitHub API to search for users and display profile information.
+
+**Built with:** HTML · CSS · JavaScript · GitHub API
+
+---
+
+## 📈 My Current Focus
+
+I'm currently focused on becoming a stronger **production-ready Full Stack Developer**, especially in:
+
+* Laravel backend architecture
+* React application development
+* API design and integration
+* Authentication & authorization
+* Database design
+* Testing
+* Git/GitHub collaboration
+* Building and shipping real-world projects
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **web development, real-world projects, team collaboration, and opportunities to grow as a Full Stack Developer**.
+
+
+---
+
+> Build. Learn. Ship. Improve.
