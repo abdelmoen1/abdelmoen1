@@ -104,8 +104,6 @@ Built around customers, invoices, products, debts, payments, users, roles and st
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="430"/>
-
 </div>
 
 # 🧩 How I Build
