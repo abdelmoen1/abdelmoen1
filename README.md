@@ -1,103 +1,106 @@
-# Hi, I'm Abdelmoen Albarbari 👋
+<div align="center">
 
-### Full Stack Web Developer | PHP • Laravel • React.js
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abdelmoen+Albarbari+%F0%9F%91%8B;Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+React.js;Building+Real-World+Web+Applications" />
 
-I build practical web applications with a focus on **clean architecture, API-driven development, and real-world problem solving**.
+</div>
 
-Currently, I'm developing my skills across the full stack — from **Laravel backends and REST APIs** to **React frontends**, while improving my experience with software architecture, Git/GitHub, testing, and collaborative development.
+<br>
 
----
+<div align="center">
 
-## 🚀 What I Do
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome" />
+</a>
 
-* Build full-stack web applications
-* Design and develop RESTful APIs with Laravel
-* Build responsive and interactive interfaces with React.js
-* Work with relational databases and application architecture
-* Integrate frontend applications with backend APIs
-* Use Git/GitHub for version control and team collaboration
-* Apply Agile practices and Git-based development workflows
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-HTML5 · CSS3 · JavaScript · React.js · Vite
-
-### Backend
-
-PHP · Laravel · REST APIs · Laravel Sanctum
-
-### Database
-
-MySQL
-
-### Tools & Workflow
-
-Git · GitHub · VS Code · Figma · Postman
-
-### Currently Learning
-
-TypeScript · Tailwind CSS · Advanced Laravel · Software Architecture
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 👨‍💻 About Me
+
+I'm a **Full Stack Web Developer** focused on building practical web applications using **Laravel and React.js**.
+
+I enjoy turning real-world problems into usable software, from database design and REST APIs to responsive user interfaces.
+
+```text
+Frontend        → React.js • JavaScript • HTML • CSS
+Backend         → PHP • Laravel • REST APIs
+Database        → MySQL
+Authentication  → Laravel Sanctum
+Tools           → Git • GitHub • Postman • Figma • VS Code
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,laravel,mysql,git,github,postman,figma,vscode" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🏢 GoTrainer
 
-A platform concept focused on connecting students and graduates with **real-world training and project opportunities**.
+A platform designed around **real-world training and project opportunities**, connecting students and graduates with organizations that need practical digital solutions.
 
-**Working with:** Laravel · React.js · AI integration · Agile
+**Stack:** Laravel · React.js · MySQL · AI · REST API
 
 ---
 
 ### 📊 Micro ERP System
 
-A multi-user ERP-style web application designed to help small businesses manage customers, invoices, debts, payments, and store operations.
+A multi-user ERP-style application for managing **customers, invoices, debts, payments, and store operations**.
 
-**Built with:** Laravel · React.js · MySQL · Sanctum
-
----
-
-### 🌦️ Weather App
-
-A responsive web application that consumes a weather API and dynamically displays weather information.
-
-**Built with:** HTML · CSS · JavaScript · REST API
+**Stack:** Laravel · React.js · MySQL · Sanctum
 
 ---
 
-### 🔎 GitHub User Search
+## 🔥 What I'm Working On
 
-A frontend application that uses the GitHub API to search for users and display profile information.
-
-**Built with:** HTML · CSS · JavaScript · GitHub API
-
----
-
-## 📈 My Current Focus
-
-I'm currently focused on becoming a stronger **production-ready Full Stack Developer**, especially in:
-
-* Laravel backend architecture
-* React application development
-* API design and integration
-* Authentication & authorization
-* Database design
-* Testing
-* Git/GitHub collaboration
-* Building and shipping real-world projects
+```text
+▰ Laravel & Backend Architecture
+▰ React.js Applications
+▰ REST API Design
+▰ Database Design
+▰ Authentication & Authorization
+▰ Testing
+▰ Agile & Team Collaboration
+```
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Activity
 
-I'm interested in **web development, real-world projects, team collaboration, and opportunities to grow as a Full Stack Developer**.
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+
+</div>
 
 ---
 
-> Build. Learn. Ship. Improve.
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build → Learn → Ship → Improve
+
+</div>
