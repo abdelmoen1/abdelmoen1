@@ -132,9 +132,11 @@ width="420"
 />
 
 </div>
+<br><br>
 
 
 
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=5EEAD4&center=true&vCenter=true&width=600&lines=Currently+building.;Currently+learning.;Always+improving." />
 
